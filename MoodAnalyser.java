@@ -8,3 +8,4 @@ public class MoodAnalyser {
         return "HAPPY";
     }
 }
+© 2021 GitHub, Inc.
